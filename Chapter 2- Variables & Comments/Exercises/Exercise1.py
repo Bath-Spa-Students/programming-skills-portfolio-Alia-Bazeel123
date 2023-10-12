@@ -5,3 +5,4 @@ message.'''
 a="We are BSU Students."
 print(a)
 a="Python is the programming language we learn."
+print(a)
