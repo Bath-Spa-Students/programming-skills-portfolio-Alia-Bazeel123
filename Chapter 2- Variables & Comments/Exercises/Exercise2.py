@@ -8,4 +8,7 @@ Albert Einstein once said, “A person who never made a mistake never tried anyt
 str1="Anne Frank once said, "
 str2="“"
 str3="Think of all the beauty still left around you and be happy."
-print(str1+str2+str3)
+str4='"'
+print(str1+str2+str3+str4)
+
+print('Anne Frank once said, ','"','Think of all the beauty still left around you and be happy.','"')
