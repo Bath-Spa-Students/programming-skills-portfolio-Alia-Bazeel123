@@ -8,6 +8,5 @@ You will to use the arithmetic operators to complete this exercise.'''
 x = 50     #Amount with the girl
 y = 6      #Amount for one USB stick
 z = x/y
-print("The can get ",int(z),"USB sticks.")
-
+print("The girl can get",int(z),"USB sticks.")
  
