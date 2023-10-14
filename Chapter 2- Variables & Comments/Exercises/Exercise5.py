@@ -9,4 +9,7 @@ x = 50     #Amount with the girl
 y = 6      #Amount for one USB stick
 z = x/y
 print("The girl can get",int(z),"USB sticks.")
- 
+
+a = int(z)*y
+b = x-a
+print("The amount left with the girl is",b,"pounds.")
