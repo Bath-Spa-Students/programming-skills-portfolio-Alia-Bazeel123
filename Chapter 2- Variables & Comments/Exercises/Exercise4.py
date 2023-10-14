@@ -5,7 +5,7 @@ fav_num = 2
 msg = f"My favourite number is {fav_num}."
 print (msg)
 
-#     OR
+            #OR
 
 num = 2
 print("My favourite number is ",num,".")
