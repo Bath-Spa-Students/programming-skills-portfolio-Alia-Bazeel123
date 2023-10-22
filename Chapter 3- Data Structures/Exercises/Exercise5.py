@@ -16,5 +16,8 @@ print (guest[2], ", yopu are invited for a cousins' dinner.")
 
 print(guest[2], "will not be able to make the dinner.")
 
-guest[2] = "Lisni"
-print(guest)
+guest[2] = "Lisni"           #Replacing an element from list using List index 
+
+print (guest[0], ", you are invited to a cousins' dinner.")
+print (guest[1], ", you are invited to a cousins' dinner.")
+print (guest[2], ", you are invited to a cousins' dinner.")
