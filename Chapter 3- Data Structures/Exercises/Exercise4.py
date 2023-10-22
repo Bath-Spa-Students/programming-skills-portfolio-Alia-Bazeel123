@@ -2,7 +2,7 @@
 Make a list that includes at least three people you'd like to invite to dinner. 
 Then use your list to print a message to each person, inviting them to dinner. '''
 
-guest = ["Aysha", "Aqeel", "Thameem"]
+guest = ["Ashley", "Nimshy", "Raniyath"]
 
 print(guest[0], ", you are invited for a cousins' dinner.")
 print(guest[1], ", you are invited for a cousins' dinner.")
