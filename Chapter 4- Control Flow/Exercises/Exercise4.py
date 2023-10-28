@@ -13,3 +13,16 @@
 
 •If the person is age 65 or older, print a message that the person is an elder.
 '''
+age = int (input("Enter your age: "))
+if age < 2:
+    print ("The person in this age group is a baby.")
+elif age < 4:
+    print ("The person in this age group is a toddler.")
+elif age < 13:
+    print ("The person in this age group is a Kid.")
+elif age < 20:
+    print ("The person in this age group is a teenager.")
+elif age < 65:
+    print ("The person in this age group is an adult.")
+else:
+    print ("The person in this age group is an elder.")
