@@ -7,3 +7,15 @@ Choose a color for an alien as you did in Exercise 5-3, and write an if-else cha
 
 •Write one version of this program that runs the if block and another that runs the else block.
 '''
+alien_color = "green"
+if "green" in alien_color:
+    print("Congratulations!!! You earned 5 points for shooting the alien.")
+else:
+    print("Congratulations!!! You earned 10 points.")
+
+aliencolor = "red"
+if "yellow" in aliencolor:
+    print("You earned 20 points.")
+else:
+    print("You earned 30 points.")
+    
