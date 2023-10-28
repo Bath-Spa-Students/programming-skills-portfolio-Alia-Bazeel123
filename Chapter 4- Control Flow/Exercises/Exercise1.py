@@ -17,3 +17,4 @@ if "red" in alien_color:
     print("You earned 20 points.")
 if "red" not in alien_color:
     print("You earned 10 points.")
+    
