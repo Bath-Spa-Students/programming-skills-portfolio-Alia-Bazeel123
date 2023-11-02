@@ -10,5 +10,9 @@ str2="“"
 str3="Think of all the beauty still left around you and be happy."
 str4='"'
 print(str1+str2+str3+str4)
+                     #Method 1
 
-print('Anne Frank once said, ','"','Think of all the beauty still left around you and be happy.','"')
+print('Anne Frank once said,','"', 'Think of all the beauty still left around you and be happy.','"')
+                     #Method 2
+print('Anne Frank once said, "Think of all the beauty still left around you and be happy."')
+                    #Method 3
