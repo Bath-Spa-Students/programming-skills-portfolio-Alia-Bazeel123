@@ -4,3 +4,12 @@ Store their first name, last name, age, and the city in which they live.
 You should have keys such as first_name, last_name, age, and city. 
 Print each piece of information stored in your dictionary.
 '''
+person = {"first_name": "Aqeel", 
+          "last_name": "Bazeel", 
+          "age": 14, 
+          "city": "Sharjah"}
+
+print (person["first_name"])
+print (person["last_name"])
+print (person["age"])
+print (person["city"])
