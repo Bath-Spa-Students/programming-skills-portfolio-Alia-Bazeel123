@@ -5,5 +5,5 @@ Add all the variables and then store the result in variable a. Print the value o
 x = 10
 y = 20
 z = 30
-a = x+y+z
+a = x+y+z        # Adding all the values using their variable names.
 print(a)
