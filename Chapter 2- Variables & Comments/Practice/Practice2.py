@@ -10,3 +10,4 @@ avg = sum/3                                                     # Calculating av
 tot = int (input("Enter the total marks: "))          # Taking total marks from the user using input().
 per = sum/tot *100                                              # Calculating percentage
 print(per)                                                      # Displaying the percentage using print().
+                  # The output will be in float data type as we divided the values to find the average.
