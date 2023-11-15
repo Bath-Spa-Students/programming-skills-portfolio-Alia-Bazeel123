@@ -9,14 +9,14 @@ However, to avoid confusion, let's call it a glossary.
   the word on one line and then print its meaning indented on a second line. 
   Use the newline character (\n) to insert a blank line between each word-meaning pair in your output.
 '''
-python_terms = {"Comment": "The line that is ignored by the interpreter.", 
+glossary = {"Comment": "The line that is ignored by the interpreter.", 
             "print()": "Displays the messsege.", 
             "input()": "Takes the input/values from the user.", 
             "string": "A collection of alphabets, words or other characters enclosed in quotation marks.", 
             "in/not in": "Determine if a given value is or isn't part of a collection of values."}
 
-print("\n Comment: ", python_terms["Comment"])
-print("\n print(): ", python_terms["print()"])
-print("\n input(): ", python_terms["input()"])
-print("\n string: ", python_terms["string"])
-print("\n in/not in: ", python_terms["in/not in"])
+print("\n Comment: ", glossary["Comment"])
+print("\n print(): ", glossary["print()"])
+print("\n input(): ", glossary["input()"])
+print("\n string: ", glossary["string"])
+print("\n in/not in: ", glossary["in/not in"])
