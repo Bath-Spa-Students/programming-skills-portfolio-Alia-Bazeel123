@@ -5,5 +5,6 @@ such as “I would like to own a Honda motorcycle.” '''
 
 fav_transp = ["car", "aeroplane", "train", "bus"]
 
-print ("For a long distance travel,",fav_transp[2],"is not always a cheaper and faster option than",fav_transp[1],'.')
+print ("For a long distance travel,",fav_transp[2],"is not always a cheaper and faster option than",
+       fav_transp[1],'.')
 print ("The speed of a", fav_transp[0], "is 40% more than that of a", fav_transp[3], '.')

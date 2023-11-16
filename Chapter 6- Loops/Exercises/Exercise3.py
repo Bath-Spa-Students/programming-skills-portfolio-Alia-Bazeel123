@@ -9,6 +9,16 @@ while True:                                         # infinity loop with break
     print(str(n) + '*' + str(n) + '=' + str(n*n))
 print('done')
 
-i = 0                                                # loop that never ends
+'''i = 0                                                # loop that never ends
 while i < 10:
-    print(i)
+    print(i)'''
+print ("Enter your age to know whether you can watch this horror movie.")
+while True:
+    age = int (input ("Enter your age: "))
+    if age < 15:
+        print ("You are not allowed to watch.")
+    elif age < 50:
+        print ("You are allowed to watch.")
+    else:
+        print ("You are not allowed to watch.")
+        
